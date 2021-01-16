@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-SAVE THE SEALS! pls
-=======
 Hello World.
->>>>>>> 2214d2c6005cc66a0330666e31100032ce78d582
 
 still testing
