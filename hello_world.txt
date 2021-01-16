@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 Hello World.
 Derek is the best teacher ever.
+=======
+<<<<<<< HEAD
+SAVE THE SEALS! pls
+=======
+Hello World.
+>>>>>>> 2214d2c6005cc66a0330666e31100032ce78d582
+>>>>>>> b2e44e293af6d2f2cca923fb83048e7cc97e9903
