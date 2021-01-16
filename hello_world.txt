@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 SAVE THE SEALS! pls
 =======
 Hello World.
+=======
+Hello World.
+
+still testing
+>>>>>>> 9e6a67c5f9315552632267e16157af3b02c21afa
